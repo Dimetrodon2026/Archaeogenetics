@@ -1,8 +1,8 @@
 For the G25 collections:
 
-YFull naming convention was used for the following Y-DNA haplogroups:
+YFull naming convention was used for the following Y-DNA haplogroups and downstream:
 -	C2b
--	E-M34
+-	E (with the exception of L795)
 -	G
 -	I2 (with the exception of L596)
 -	N
