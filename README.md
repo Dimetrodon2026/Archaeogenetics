@@ -6,6 +6,7 @@ YFull naming convention was used for the following Y-DNA haplogroups:
 -	G
 -	I2 (with the exception of L596)
 -	N
+-	Q (other than Native American branches)
 -	R1a
 -	R1b-PF7562
 -	R1b-Z2103
